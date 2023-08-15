@@ -1,0 +1,2 @@
+# emerald
+💎 Pokémon Emerald decompiled
