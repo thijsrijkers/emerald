@@ -4,15 +4,15 @@
 
 
 ### Tools
-
- <b> Ghidra SRE </b>
- https://ghidra-sre.org/  
-
 ```yml
+Ghidra SRE
+
 Type: 
   Raw Binary
 Language:
-  Little Endian ARMv4t 
+  Little Endian ARMv4t
+Source:
+  https://ghidra-sre.org/  
 ```
 #### Sources
 https://cturt.github.io/pinball.html
