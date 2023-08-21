@@ -3,10 +3,10 @@
 <h3 align="center">Pokemon Emerald Decompiled</h3>
 
 
-#### Tools
+### Tools
 
-| Tool       | Source                    |
-| Ghidra SRE | https://ghidra-sre.org/   | 
+ <b> Ghidra SRE </b>
+ https://ghidra-sre.org/  
 
 ```yml
 Type: 
