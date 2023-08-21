@@ -1,16 +1,21 @@
-# emerald
-💎 Pokémon Emerald decompiled
+
+<p align="center"><img src="https://img.pokemondb.net/sprites/black-white/anim/back-normal/rayquaza.gif" width="128" height="128"> </p>
+<h3 align="center">Pokemon Emerald Decompiled</h3>
 
 
 Tools:
-Ghidra SRE
+| Tool | Source |
+| Ghidra SRE | https://ghidra-sre.org/ | 
 
-Settings Ghidra:
-Raw Binary
+```yml
+package: 
+  Raw Binary
+Language:
+  Little Endian ARMv4t 
+volumes: 
+  path: local
 
-Language Ghidra: 
-Little Endian ARMv4t 
+```
 
-Sources:
 https://cturt.github.io/pinball.html
 https://ghidra-sre.org/
