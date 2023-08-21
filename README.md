@@ -3,7 +3,7 @@
 <h3 align="center">Pokemon Emerald Decompiled</h3>
 
 
-##Tools
+## Tools
 
 | Tool | Source |
 | Ghidra SRE | https://ghidra-sre.org/ | 
@@ -14,6 +14,6 @@ Type:
 Language:
   Little Endian ARMv4t 
 ```
-##Sources
+## Sources
 https://cturt.github.io/pinball.html
 https://ghidra-sre.org/
